@@ -48,8 +48,15 @@ cct --base64 /decode "SGVsbG8gV29ybGQh"
 ![win32console](./images/console.png)
 
 ### win32sqlite
-[Исходный код](./code/win32console/win32sqlite.asm)
+[Исходный код](./code/win32sqlite/win32sqlite.asm)
 
 Выполняет какой-то SQL-скрипт на базе данных sqlite и выводит шаги в консоль
 
 ![win32sqlite](./images/sqlite.png)
+
+### win32zipfolder
+[Исходный код](./code/win32zipfolder/win32zipfolder.asm)
+
+Сжимает папку в zip-архив
+
+![win32zipfolder](./images/zip.png)
