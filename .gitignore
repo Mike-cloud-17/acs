@@ -1,2 +1,4 @@
 .devcontainer/
 .vscode/
+fasm/
+.DS_Store
