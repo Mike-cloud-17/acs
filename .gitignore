@@ -2,3 +2,5 @@
 .vscode/
 fasm/
 .DS_Store
+*/.idea
+*/cmake-build-debug
